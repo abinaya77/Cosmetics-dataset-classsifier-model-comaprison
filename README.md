@@ -1,1 +1,2 @@
 # ML-regressor-and-classifier-models
+I have used the cosmetics data here and done different concepts like stadard scalar ,vectoring it and created different ML models like ridge regression ,KNN regressor,KNN classifier,randon forest classifier and artificial neural network to find the accuracy score and MSE error for classifing the data into either PEH group OR PH group etc based on the cosmetics ingredients used.
